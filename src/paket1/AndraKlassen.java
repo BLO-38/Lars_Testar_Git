@@ -9,6 +9,7 @@ public class AndraKlassen {
         System.out.println("2a");
         System.out.println("Ny kod");
         System.out.println("Nytt igen i webben");
+        System.out.println("Detta skrevs hemma");
         
     }
 }
