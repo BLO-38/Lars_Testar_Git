@@ -14,4 +14,5 @@ public class AndraKlassen {
     public static void metodMedBLO38 () {
         System.out.println("En metod! med BLO-38");
     }
+    // Kommentar skriven i github
 }
