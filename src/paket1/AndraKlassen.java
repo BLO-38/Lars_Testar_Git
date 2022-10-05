@@ -5,6 +5,9 @@ public class AndraKlassen {
         System.out.println("2a");
         System.out.println("Ny kod");
         System.out.println("Utskrift tillagd i git");
+        System.out.println("Utskrift");
+        System.out.println("2a");
+        System.out.println("Ny kod");
         
     }
 }
