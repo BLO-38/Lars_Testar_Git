@@ -10,6 +10,8 @@ public class AndraKlassen {
         System.out.println("Ny kod");
         System.out.println("Nytt igen i webben");
         System.out.println("Detta skrevs hemma");
+        System.out.println("Hemma igen");
+        // KOMMENTAR!!
         
     }
 }
