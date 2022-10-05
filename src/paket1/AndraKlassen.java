@@ -12,6 +12,7 @@ public class AndraKlassen {
         System.out.println("Detta skrevs hemma");
         System.out.println("Hemma igen");
         // KOMMENTAR!!
+        // NU SKRIVER JAG OCH PUSAHAR TILL LARBLO1
         
     }
 }
