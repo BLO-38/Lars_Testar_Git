@@ -15,5 +15,5 @@ public class AndraKlassen {
         System.out.println("En metod! med BLO-38");
         System.out.println("En utskrift i githubbbbb");
     }
-    // Kommentar skriven i github
+    // Kommentar skriven i github 2
 }
