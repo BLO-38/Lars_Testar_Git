@@ -9,6 +9,8 @@ public class AndraKlassen {
         System.out.println("Hemma igen");
         // KOMMENTAR!!
         // NU SKRIVER JAG OCH PUSAHAR TILL LARBLO1
+        // Jag ändrar main i github
+        System.out.println("...med denna kommentar!");
         
     }
     public static void metodMedBLO38 () {
