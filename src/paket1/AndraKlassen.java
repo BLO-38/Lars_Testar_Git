@@ -16,4 +16,5 @@ public class AndraKlassen {
         System.out.println("En utskrift i githubbbbb");
     }
     // Kommentar skriven i github 2
+    // Kommentar i github
 }
