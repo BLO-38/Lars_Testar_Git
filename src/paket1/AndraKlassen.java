@@ -22,4 +22,5 @@ public class AndraKlassen {
     // Andra kommentarern i github
     // Nu skriver jag igen i IntelliJ och committar
     // En ytterligare ändring
+    // Och i IntelliJ igen. Efter att ha pulla tförst
 }
