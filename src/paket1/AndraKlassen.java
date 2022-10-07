@@ -18,9 +18,6 @@ public class AndraKlassen {
     // Kommentar skriven i github 2
     //Skriver utan att spara
 
-    // Kommentar i github
-    // Andra kommentarern i github
-    // Nu skriver jag igen i IntelliJ och committar
-    // En ytterligare ändring
-    // Och i IntelliJ igen. Efter att ha pulla tförst
+   // Tog bort lite kommentarer 
+    // ska snart merga
 }
