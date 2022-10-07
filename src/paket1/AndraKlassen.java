@@ -14,6 +14,7 @@ public class AndraKlassen {
     public static void metodMedBLO38 () {
         System.out.println("En metod! med BLO-38");
         System.out.println("En utskrift i githubbbbb");
+        System.out.println("Jag ändrar denna metyod i D2");
     }
     // Kommentar skriven i github 2
     //Skriver utan att spara
