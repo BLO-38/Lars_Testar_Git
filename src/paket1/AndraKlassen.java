@@ -15,6 +15,8 @@ public class AndraKlassen {
     }
     public static void metodMedBLO38 () {
         System.out.println("En metod! med BLO-38");
+        System.out.println("En utskrift i githubbbbb");
+        System.out.println("Jag ändrar denna metyod i D2 på riktigt i D2 nu. Det andra var i githib");
         System.out.println("En utskrift i githubbbbb + 666666");
         System.out.println("Jag ändrar denna metyod i D2 för att prova rebase");
         // En kommentar som aks fetchas
