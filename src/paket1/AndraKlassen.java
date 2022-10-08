@@ -17,6 +17,7 @@ public class AndraKlassen {
         System.out.println("En metod! med BLO-38");
         System.out.println("En utskrift i githubbbbb + 666666");
         System.out.println("Jag ändrar denna metyod i D2 för att prova rebase");
+        // En kommentar som aks fetchas
     }
     // Till andra försöket
     // Skrivet i github
