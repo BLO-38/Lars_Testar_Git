@@ -21,6 +21,6 @@ public class AndraKlassen {
         System.out.println("Jag ändrar denna metyod i D2 för att prova rebase");
         // En kommentar som aks fetchas
     }
-    // Till andra försöket
+    // Till andra försöketkjh
     // Skrivet i github
 }
