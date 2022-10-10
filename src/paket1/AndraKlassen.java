@@ -24,4 +24,5 @@ public class AndraKlassen {
     // Till andra försöketkjh
     // Skrivet i github
     // Kommer denna till master nu???
+    // Inlagt i github nu
 }
